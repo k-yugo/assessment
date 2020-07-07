@@ -93,6 +93,7 @@ function assessment(userName) {
 }
 
 // テストコード
+
 console.assert(
   assessment('太郎') ===
     '太郎のいいところは決断力です。太郎がする決断にいつも助けられる人がいます。',
